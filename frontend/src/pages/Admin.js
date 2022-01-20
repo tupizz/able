@@ -50,6 +50,9 @@ function Admin() {
                       <div>
                         <b>{post.title}</b>
                       </div>
+                      <div>
+                        <span class="badge rounded-pill bg-primary">{post.category}</span>
+                      </div>
                       <small>
                         Published at{" "}
                         {format(new Date(post.createdAt), "HH:mm dd/MM/yyyy")}
