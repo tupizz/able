@@ -1,5 +1,8 @@
 We want to create a blog from scratch using a MERN stack. This application has two sides: the public home view and the editor backend view (or admin view).
 
+
+![](https://cln.sh/9JZlku)
+
 **Must have**
 
 * The post editor should accept Markdown. You can use either your own solution or an existing package.
