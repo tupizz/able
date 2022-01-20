@@ -20,6 +20,11 @@ The app will be connected to a MongoDB instance, which has the same connection i
 
 ```
 Host: mongodb:27017
+
+```bash
+docker run -d --name mongo-db \
+    -p 27017:27017 \
+    mongo:latest
 ```
 
 **Additional notes**
