@@ -10,6 +10,7 @@ We want to create a blog from scratch using a MERN stack. This application has t
 
 **Nice to have**
 
+
 * Deleting posts from the admin view.
 
 **Won't have**
