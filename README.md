@@ -1,7 +1,8 @@
 We want to create a blog from scratch using a MERN stack. This application has two sides: the public home view and the editor backend view (or admin view).
 
+# App workflow video
 
-![](https://cln.sh/9JZlku)
+https://cln.sh/9JZlku
 
 **Must have**
 
