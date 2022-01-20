@@ -1,8 +1,24 @@
-We want to create a blog from scratch using a MERN stack. This application has two sides: the public home view and the editor backend view (or admin view).
-
 # App workflow video
 
 https://cln.sh/9JZlku
+
+# Running locally
+
+1) run your mongo collection locally
+2) then start the application
+3) use the file `http/test.http` to test api routes if you will
+
+
+
+```bash
+ docker run -d --name mongo-db \
+    -p 27017:27017 \
+    mongo:latest
+```
+
+# Requirements
+
+We want to create a blog from scratch using a MERN stack. This application has two sides: the public home view and the editor backend view (or admin view).
 
 **Must have**
 
